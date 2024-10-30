@@ -55,7 +55,7 @@ git clone https://github.com/WilmerMarroquin/DescubreCaqueta
 
 ---
 
-Para ver el sitio en acción, visita: [URL_DE_TU_SITIO](https://descubrecaquetawm.onrender.com/index.html)
+Para ver el sitio en acción, visita: [https://descubrecaquetawm.onrender.com/](https://descubrecaquetawm.onrender.com/index.html)
 
 ## 📋 Estructura del Proyecto
 
@@ -65,6 +65,8 @@ DescubreCaqueta/
 ├── index.html
 ├── sitios.html
 ├── sobre_mi.html
+├── serrania_chiribiquete.html
+├── ...
 ├── css/
 │   └── styles.css
 ├── img/
@@ -98,7 +100,7 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.
 
 ## 🙏 Agradecimientos
 
-- A la Universidad [Fundación internacional de a Rioja] por el apoyo en el desarrollo de este proyecto
+- A la Universidad Fundación internacional de a Rioja por el apoyo en el desarrollo de este proyecto
 - A todos los caqueteños que compartieron sus conocimientos y experiencias sobre la región
 - A la comunidad de desarrolladores por sus valiosos recursos y herramientas
 
