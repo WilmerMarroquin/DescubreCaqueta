@@ -1,36 +1,106 @@
-# DescubreCaqueta
-Serranía de Chiribiquete
-Explora la majestuosa Serranía de Chiribiquete, un paraíso natural declarado Patrimonio de la Humanidad por la UNESCO. Sus imponentes tepuyes y paisajes vírgenes albergan una biodiversidad incomparable y son el hogar de numerosas especies endémicas. La riqueza cultural de las comunidades indígenas que habitan en esta región te invita a conocer su historia y tradiciones. Recorrer sus senderos te llevará a descubrir pinturas rupestres milenarias y una belleza paisajística que te dejará sin aliento. Un destino que une la aventura con el respeto por la naturaleza.
+# Descubre Caquetá 🌿
 
-Cueva de los Guácharos
-Adéntrate en las profundidades de la tierra y descubre la magia de la Cueva de los Guácharos. Este enigmático mundo subterráneo te sorprenderá con sus formaciones rocosas, ríos subterráneos y una biodiversidad única. Hogar de los famosos guácharos, aves que emiten un peculiar sonido que resuena en la oscuridad, esta cueva te ofrece una experiencia inolvidable. Realiza un recorrido guiado y déjate envolver por la atmósfera mágica de este lugar, un verdadero tesoro natural.
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-green)]()
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)]()
 
-Florencia
-Florencia, la puerta de entrada a la Amazonía colombiana. Esta ciudad, rodeada de exuberante vegetación, te invita a explorar la cultura local y la riqueza natural de la región. Disfruta de la tranquilidad de sus parques, visita el Malecón y déjate sorprender por la belleza del río Caquetá. Florencia es el punto de partida ideal para aventurarte en los diferentes ecosistemas de la región y descubrir la diversidad de flora y fauna.
+## 🌎 Descripción
 
-Cordillera de los Picachos
-La Cordillera de los Picachos se erige como un impresionante sistema montañoso que ofrece vistas panorámicas espectaculares y un refugio para la vida silvestre. Este lugar es perfecto para los amantes del senderismo y la observación de aves, donde podrás explorar su rica flora y fauna en un entorno de paz y tranquilidad. Disfruta de actividades al aire libre y déjate llevar por la majestuosidad de sus cumbres. La Cordillera de los Picachos es una joya escondida que promete una experiencia única en contacto con la naturaleza.
+"Descubre Caquetá" es un proyecto web educativo que busca promover y dar a conocer las maravillas naturales, culturales y turísticas del departamento del Caquetá, Colombia. Como caqueteño y estudiante de Ingeniería Informática, he desarrollado esta plataforma para combinar mis conocimientos tecnológicos con mi pasión por mostrar la riqueza de mi región natal.
 
-Reserva Natural El Danubio
-Descubre la Reserva Natural El Danubio, un ecosistema protegido que resguarda la riqueza de la biodiversidad colombiana. Este refugio ecológico es el hogar de numerosas especies de flora y fauna, muchas de las cuales son raras o amenazadas. Ideal para ecoturismo, la reserva te ofrece la oportunidad de realizar caminatas por senderos rodeados de naturaleza exuberante y participar en actividades de avistamiento de aves. El Danubio es un lugar donde la belleza natural se encuentra con la conservación, brindándote una experiencia educativa y enriquecedora.
+## ✨ Características
 
-Cascada El Mohan
-Sumérgete en la belleza de la Cascada El Mohan, un impresionante salto de agua que invita a la aventura y el relax. Este lugar mágico, rodeado de exuberante vegetación, es perfecto para disfrutar de un día en la naturaleza, refrescarte en sus aguas cristalinas y explorar los senderos cercanos. El murmullo del agua y la diversidad de flora que la rodea crean un ambiente sereno y revitalizante. La Cascada El Mohan es un destino que combina la belleza natural con la paz que solo la naturaleza puede ofrecer.
+- **Sitios Turísticos**: Explora 12 destinos imperdibles del Caquetá, incluyendo:
+  - Serranía de Chiribiquete (Patrimonio de la Humanidad UNESCO)
+  - Cueva de los Guácharos
+  - Cascada El Mohan
+  - Petroglifos El Encanto
+  - Y muchos más...
 
-Balneario Las Pailas
-El Balneario Las Pailas es un rincón paradisíaco donde la naturaleza y la recreación se unen. Con sus aguas frescas y cristalinas, este balneario es ideal para disfrutar de un día de sol y diversión en familia o con amigos. Rodeado de una vegetación exuberante, ofrece espacios para el descanso y la aventura, como senderos y áreas para hacer picnic. Las Pailas es un lugar perfecto para desconectar y disfrutar de la belleza del entorno natural.
+- **Diseño Responsivo**: Interfaz adaptable a diferentes dispositivos
+- **Galería de Imágenes**: Fotografías de alta calidad de los sitios turísticos
+- **Información Detallada**: Descripciones completas de cada destino
 
-Petroglifos El Encanto
-Adéntrate en la historia precolombina en los Petroglifos El Encanto, un sitio arqueológico fascinante que alberga grabados rupestres que cuentan la historia de antiguas culturas indígenas. Estos petroglifos, tallados en roca, son testigos de la conexión de los pueblos ancestrales con su entorno. Visitar El Encanto es una experiencia cultural que te permitirá reflexionar sobre el legado histórico de la región y su riqueza cultural.
+## 🛠️ Tecnologías Utilizadas
 
-Ecoparque La Calera
-El Ecoparque La Calera es un espacio dedicado a la conservación y educación ambiental, ideal para disfrutar de un día en familia. Con senderos rodeados de naturaleza y áreas recreativas, este ecoparque ofrece actividades como senderismo, avistamiento de aves y talleres educativos. La Calera es un lugar perfecto para aprender sobre la flora y fauna locales mientras te conectas con la naturaleza en un entorno amigable y sostenible.
+- HTML5
+- CSS3
+- Diseño Responsivo
 
-Mirador 360 Florencia
-Contempla la belleza de Florencia desde las alturas en el Mirador 360, un punto panorámico que te ofrece vistas espectaculares de la ciudad y sus alrededores. Este lugar es ideal para disfrutar de atardeceres inolvidables y tomar fotografías impresionantes. Ya sea que desees relajarte o simplemente admirar la naturaleza, el Mirador 360 es una parada obligatoria para todos los visitantes de la región.
+## 🚀 Instalación
 
-Río Pato
-El Río Pato es un hermoso curso de agua que serpentea a través de paisajes exuberantes, convirtiéndose en un refugio para diversas especies de fauna y flora. Ideal para actividades recreativas como el kayak y la pesca, este río es perfecto para quienes buscan una experiencia de aventura en un entorno natural. Disfruta de un día de exploración y diversión mientras te maravillas con la belleza de la naturaleza que rodea el Río Pato.
+1. Clona este repositorio:
+```bash
+git clone https://github.com/WilmerMarroquin/DescubreCaqueta
+```
 
-Portales del Fraguita
-Los Portales del Fraguita son un impresionante ejemplo de la arquitectura natural de la región, donde la roca y la vegetación se fusionan en una obra maestra del paisaje. Este lugar invita a la contemplación y el disfrute de la naturaleza en su estado más puro. Ideal para realizar caminatas y exploraciones, los Portales del Fraguita ofrecen un espacio para conectarse con el entorno y disfrutar de momentos de tranquilidad en medio de la belleza natural.
+2. Abre el archivo `index.html` en tu navegador preferido
+
+## 📸 Capturas de Pantalla
+
+### 🏠 Página de Inicio
+![Página de Inicio](screenshots/home.png)
+*Vista principal del sitio mostrando los destinos destacados del Caquetá*
+
+### 🗺️ Página de Sitios
+![Página de Sitios](screenshots/sitios.png)
+*Galería completa de destinos turísticos*
+
+### 🏞️ Detalle de Sitio
+![Detalle de Chiribiquete](screenshots/chiribiquete-detalles.png)
+*Vista detallada de la Serranía de Chiribiquete*
+
+### 👤 Página Sobre Mí
+![Sobre Mí](screenshots/sobre-mi.png)
+*Sección personal con información del autor*
+
+---
+
+Para ver el sitio en acción, visita: [URL_DE_TU_SITIO](https://descubrecaquetawm.onrender.com/index.html)
+
+## 📋 Estructura del Proyecto
+
+```
+DescubreCaqueta/
+│
+├── index.html
+├── sitios.html
+├── sobre_mi.html
+├── css/
+│   └── styles.css
+├── img/
+│   ├── caqueta.jpg
+│   ├── serrania_chiribiquete.jpg
+│   └── ...
+└── 
+```
+
+## 🤝 Contribuir
+
+Las contribuciones son bienvenidas. Si tienes sugerencias para mejorar este proyecto:
+
+1. Haz Fork del proyecto
+2. Crea una rama para tu característica (`git checkout -b feature/AmazingFeature`)
+3. Haz commit de tus cambios (`git commit -m 'Add: nueva característica'`)
+4. Haz Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
+
+## 👤 Autor
+
+**Wilmer Alirio Marroquin Lomelin**
+- Estudiante de Ingeniería Informática
+- Caqueteño apasionado por la tecnología y su región
+- [GitHub](https://github.com/WilmerMarroquin)
+- [LinkedIn](https://www.linkedin.com/in/wilmer-alirio-marroquin-lomelin-443231218/)
+
+## 📝 Licencia
+
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
+
+## 🙏 Agradecimientos
+
+- A la Universidad [Fundación internacional de a Rioja] por el apoyo en el desarrollo de este proyecto
+- A todos los caqueteños que compartieron sus conocimientos y experiencias sobre la región
+- A la comunidad de desarrolladores por sus valiosos recursos y herramientas
+
+---
+Hecho con ❤️ por Wilmer Marroquin | © 2024 Descubre Caquetá

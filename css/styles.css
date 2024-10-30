@@ -193,6 +193,14 @@ section:hover h2::after {
     color: var(--color-primary);
 }
 
+.sitio p {
+    margin-bottom: 1rem;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: var(--color-text);
+}
+
 .sitio a {
     text-decoration: none;
     display: block;
@@ -315,7 +323,6 @@ html {
     }
 }
 
-
 /* Estilos específicos para la página individual de cada sitio */
 .sitio-detalle {
     background-color: var(--color-white);
@@ -333,19 +340,14 @@ html {
 
 .galeria {
     display: grid;
-    /* Usar grid para la galería */
     grid-template-columns: repeat(2, 1fr);
-    /* Dos columnas */
     gap: 1rem;
-    /* Espacio entre las imágenes */
     margin-bottom: 2rem;
 }
 
 .imagen-principal {
     grid-column: span 2;
-    /* La imagen principal ocupa 2 columnas */
     width: 100%;
-    /* Asegura que ocupe el 100% de su celda */
     height: auto;
     border-radius: 8px;
     box-shadow: var(--shadow-sm);
@@ -356,18 +358,19 @@ html {
     transform: scale(1.02);
 }
 
-.imagen-secundaria {
+.imagen-secundaria-1,
+.imagen-secundaria-2 {
     width: 100%;
-    /* Asegura que ocupe el 100% de su celda */
     height: 100%;
-    /* Asegura que ocupe el 100% de la celda */
     object-fit: cover;
-    /* Mantiene la proporción de aspecto */
     border-radius: 8px;
+    box-shadow: var(--shadow-sm);
     transition: transform var(--transition-standard);
 }
 
-.imagen-secundaria:hover {
+
+.imagen-secundaria-1:hover,
+.imagen-secundaria-2:hover {
     transform: scale(1.05);
 }
 
@@ -375,7 +378,21 @@ html {
 @media (max-width: 768px) {
     .galeria {
         grid-template-columns: 1fr;
-        /* Una columna en pantallas más pequeñas */
+    }
+
+    .imagen-principal {
+        grid-row: 1;
+        /* Primera fila */
+    }
+
+    .imagen-secundaria-1 {
+        grid-row: 2;
+        /* Segunda fila */
+    }
+
+    .imagen-secundaria-2 {
+        grid-row: 3;
+        /* Tercera fila */
     }
 
     .sitio-detalle h2 {
@@ -405,8 +422,4 @@ html {
     margin-top: 1rem;
     font-size: 1.1rem;
     line-height: 1.8;
-}
-
-footer {
-    margin-top: 2rem;
 }
